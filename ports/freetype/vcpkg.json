@@ -1,6 +1,6 @@
 {
   "name": "freetype",
-  "version": "2.12.1",
+  "version": "2.13.2",
   "port-version": 3,
   "description": "A library to render fonts.",
   "homepage": "https://www.freetype.org/",
